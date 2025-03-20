@@ -16,7 +16,7 @@
 
 ### Example Real World Application
 
-An application that assists EMS and police services.
+An application that assists EMS and police services. With more granularity, this model has the potential to redefine how communities offer EMS services.
 
 ##### Heavy Load
 ![Application Image 1](images/application.png)
